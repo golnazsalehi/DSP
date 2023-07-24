@@ -9,5 +9,7 @@
   
   Part 5: Introduction to Cepstrum
 # CA-2 :
-  Part 1: 
-      1- Remove echo and noise with the help of singlr-echo and FIR filters
+  Part 1: Remove echo and noise with the help of singlr-echo and FIR filters
+
+  Part 2: The effect of a number of famous kernels on an image and implemetation of CamScaner 
+  
