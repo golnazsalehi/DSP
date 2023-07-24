@@ -10,4 +10,4 @@
   Part 5: Introduction to Cepstrum
 # CA-2 :
   Part 1: 
-          - Remove echo and noise with the help of singlr-echo and FIR filters
+      1- Remove echo and noise with the help of singlr-echo and FIR filters
